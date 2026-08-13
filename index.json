@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "updated": "2026-08-13T17:02:39+00:00",
+  "files": [
+    {
+      "name": "motf hist adv logs.csv",
+      "path": "files/20260813-170238-motf-hist-adv-logs.csv",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260813-170238-motf-hist-adv-logs.csv",
+      "tag": "advice-log",
+      "description": "",
+      "size": 123629,
+      "content_type": "text/csv",
+      "uploaded": "2026-08-13T17:02:38+00:00"
+    }
+  ]
+}
