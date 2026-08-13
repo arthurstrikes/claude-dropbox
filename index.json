@@ -1,5 +1,16 @@
 {
   "schema": 1,
-  "updated": "2026-08-13T17:10:47+00:00",
-  "files": []
+  "updated": "2026-08-13T17:15:13+00:00",
+  "files": [
+    {
+      "name": "Historical Advice.csv",
+      "path": "files/20260813-171512-historical-advice.csv",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260813-171512-historical-advice.csv",
+      "tag": "advice-log",
+      "description": "MOTF Hist Advice Log till 31 July",
+      "size": 107352,
+      "content_type": "text/csv",
+      "uploaded": "2026-08-13T17:15:12+00:00"
+    }
+  ]
 }
