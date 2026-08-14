@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-08-14T08:58:52+00:00",
+  "updated": "2026-08-14T09:47:04+00:00",
   "files": [
+    {
+      "name": "Copy of Tradebook_Monthly_Summary.xlsx",
+      "path": "files/20260814-094703-copy-of-tradebook_monthly_summary.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-094703-copy-of-tradebook_monthly_summary.xlsx",
+      "tag": "tradebook",
+      "description": "tradebook summary by claude",
+      "size": 42701,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T09:47:03+00:00"
+    },
     {
       "name": "Jul_upload.xlsx",
       "path": "files/20260814-085845-jul_upload.xlsx",
