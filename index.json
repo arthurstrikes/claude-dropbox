@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-08-14T08:57:26+00:00",
+  "updated": "2026-08-14T08:58:52+00:00",
   "files": [
+    {
+      "name": "Jul_upload.xlsx",
+      "path": "files/20260814-085845-jul_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085845-jul_upload.xlsx",
+      "tag": "tradebook",
+      "description": "july",
+      "size": 28485379,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:58:45+00:00"
+    },
     {
       "name": "Jun_upload.xlsx",
       "path": "files/20260814-085717-jun_upload.xlsx",
