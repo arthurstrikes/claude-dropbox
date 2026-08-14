@@ -1,7 +1,37 @@
 {
   "schema": 1,
-  "updated": "2026-08-13T17:15:13+00:00",
+  "updated": "2026-08-14T08:54:24+00:00",
   "files": [
+    {
+      "name": "Feb_upload.xlsx",
+      "path": "files/20260814-085421-feb_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085421-feb_upload.xlsx",
+      "tag": "tradebook",
+      "description": "JAN,FEB,MARCH",
+      "size": 12927911,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:54:21+00:00"
+    },
+    {
+      "name": "March_upload.xlsx",
+      "path": "files/20260814-085415-march_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085415-march_upload.xlsx",
+      "tag": "tradebook",
+      "description": "JAN,FEB,MARCH",
+      "size": 29469079,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:54:15+00:00"
+    },
+    {
+      "name": "Jan_upload.xlsx",
+      "path": "files/20260814-085412-jan_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085412-jan_upload.xlsx",
+      "tag": "tradebook",
+      "description": "JAN,FEB,MARCH",
+      "size": 18016279,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:54:12+00:00"
+    },
     {
       "name": "Historical Advice.csv",
       "path": "files/20260813-171512-historical-advice.csv",
