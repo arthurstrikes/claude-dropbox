@@ -1,7 +1,37 @@
 {
   "schema": 1,
-  "updated": "2026-08-14T08:54:24+00:00",
+  "updated": "2026-08-14T08:57:26+00:00",
   "files": [
+    {
+      "name": "Jun_upload.xlsx",
+      "path": "files/20260814-085717-jun_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085717-jun_upload.xlsx",
+      "tag": "tradebook",
+      "description": "April,May,June",
+      "size": 28808102,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:57:17+00:00"
+    },
+    {
+      "name": "April_upload.xlsx",
+      "path": "files/20260814-085712-april_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085712-april_upload.xlsx",
+      "tag": "tradebook",
+      "description": "April,May,June",
+      "size": 18162494,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:57:12+00:00"
+    },
+    {
+      "name": "May_upload.xlsx",
+      "path": "files/20260814-085707-may_upload.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260814-085707-may_upload.xlsx",
+      "tag": "tradebook",
+      "description": "April,May,June",
+      "size": 16600843,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-14T08:57:07+00:00"
+    },
     {
       "name": "Feb_upload.xlsx",
       "path": "files/20260814-085421-feb_upload.xlsx",
