@@ -1,7 +1,27 @@
 {
   "schema": 1,
-  "updated": "2026-08-17T05:50:07+00:00",
+  "updated": "2026-08-17T08:15:12+00:00",
   "files": [
+    {
+      "name": "Historical Advice.csv",
+      "path": "files/20260817-081511-historical-advice.csv",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260817-081511-historical-advice.csv",
+      "tag": "misc",
+      "description": "issue with imp engine",
+      "size": 125865,
+      "content_type": "text/csv",
+      "uploaded": "2026-08-17T08:15:11+00:00"
+    },
+    {
+      "name": "Screenshot 2026-08-17 134302.png",
+      "path": "files/20260817-081510-screenshot-2026-08-17-134302.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260817-081510-screenshot-2026-08-17-134302.png",
+      "tag": "misc",
+      "description": "issue with imp engine",
+      "size": 62390,
+      "content_type": "image/png",
+      "uploaded": "2026-08-17T08:15:10+00:00"
+    },
     {
       "name": "IMP_Month_End_Allocations_Jul2026.xlsx",
       "path": "files/20260817-055006-imp_month_end_allocations_jul2026.xlsx",
