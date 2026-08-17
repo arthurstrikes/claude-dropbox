@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-08-14T09:47:04+00:00",
+  "updated": "2026-08-17T05:50:07+00:00",
   "files": [
+    {
+      "name": "IMP_Month_End_Allocations_Jul2026.xlsx",
+      "path": "files/20260817-055006-imp_month_end_allocations_jul2026.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260817-055006-imp_month_end_allocations_jul2026.xlsx",
+      "tag": "misc",
+      "description": "imp month end allocations",
+      "size": 146545,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-17T05:50:06+00:00"
+    },
     {
       "name": "Copy of Tradebook_Monthly_Summary.xlsx",
       "path": "files/20260814-094703-copy-of-tradebook_monthly_summary.xlsx",
