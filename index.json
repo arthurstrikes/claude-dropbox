@@ -1,7 +1,147 @@
 {
   "schema": 1,
-  "updated": "2026-08-17T10:12:26+00:00",
+  "updated": "2026-08-18T11:31:24+00:00",
   "files": [
+    {
+      "name": "VS Bluechip Edge.png",
+      "path": "files/20260818-113122-vs-bluechip-edge.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113122-vs-bluechip-edge.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1896692,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:22+00:00"
+    },
+    {
+      "name": "TM Prime.png",
+      "path": "files/20260818-113120-tm-prime.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113120-tm-prime.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1737583,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:20+00:00"
+    },
+    {
+      "name": "RS Alpha Bluechip.png",
+      "path": "files/20260818-113118-rs-alpha-bluechip.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113118-rs-alpha-bluechip.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1710314,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:18+00:00"
+    },
+    {
+      "name": "MO Zodiac.png",
+      "path": "files/20260818-113116-mo-zodiac.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113116-mo-zodiac.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1917492,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:16+00:00"
+    },
+    {
+      "name": "MO Technical.png",
+      "path": "files/20260818-113114-mo-technical.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113114-mo-technical.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1740074,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:14+00:00"
+    },
+    {
+      "name": "MO Signia.png",
+      "path": "files/20260818-113112-mo-signia.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113112-mo-signia.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1678326,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:12+00:00"
+    },
+    {
+      "name": "MO Signature.png",
+      "path": "files/20260818-113110-mo-signature.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113110-mo-signature.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1739721,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:10+00:00"
+    },
+    {
+      "name": "MO Combined Alpha.png",
+      "path": "files/20260818-113108-mo-combined-alpha.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113108-mo-combined-alpha.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1697256,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:08+00:00"
+    },
+    {
+      "name": "MO 20 Quant Momentum.png",
+      "path": "files/20260818-113107-mo-20-quant-momentum.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113107-mo-20-quant-momentum.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1793767,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:07+00:00"
+    },
+    {
+      "name": "Aspire Active NS Mid & Small Cap.png",
+      "path": "files/20260818-113105-aspire-active-ns-mid-small-cap.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113105-aspire-active-ns-mid-small-cap.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1871560,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:05+00:00"
+    },
+    {
+      "name": "Ascend Active NS 5TX5T.png",
+      "path": "files/20260818-113103-ascend-active-ns-5tx5t.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113103-ascend-active-ns-5tx5t.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1982207,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:03+00:00"
+    },
+    {
+      "name": "Apex Active Industry Champs.png",
+      "path": "files/20260818-113101-apex-active-industry-champs.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113101-apex-active-industry-champs.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1767481,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:31:01+00:00"
+    },
+    {
+      "name": "AN Alphanext.png",
+      "path": "files/20260818-113059-an-alphanext.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113059-an-alphanext.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1973258,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:30:59+00:00"
+    },
+    {
+      "name": "AN Alpha Pulse.png",
+      "path": "files/20260818-113057-an-alpha-pulse.png",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260818-113057-an-alpha-pulse.png",
+      "tag": "misc",
+      "description": "product 1 pager",
+      "size": 1836507,
+      "content_type": "image/png",
+      "uploaded": "2026-08-18T11:30:57+00:00"
+    },
     {
       "name": "Merger-199371.xlsx",
       "path": "files/20260817-101225-merger-199371.xlsx",
