@@ -1,7 +1,47 @@
 {
   "schema": 1,
-  "updated": "2026-08-18T11:31:24+00:00",
+  "updated": "2026-08-19T10:35:34+00:00",
   "files": [
+    {
+      "name": "AN AlphaNext.pdf",
+      "path": "files/20260819-103533-an-alphanext.pdf",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260819-103533-an-alphanext.pdf",
+      "tag": "misc",
+      "description": "imp factsheet to prepare write up",
+      "size": 722013,
+      "content_type": "application/pdf",
+      "uploaded": "2026-08-19T10:35:33+00:00"
+    },
+    {
+      "name": "3.8 Aspire_Portfolio_5_Aug_2026.pdf",
+      "path": "files/20260819-103531-3.8-aspire_portfolio_5_aug_2026.pdf",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260819-103531-3.8-aspire_portfolio_5_aug_2026.pdf",
+      "tag": "misc",
+      "description": "imp factsheet to prepare write up",
+      "size": 1445708,
+      "content_type": "application/pdf",
+      "uploaded": "2026-08-19T10:35:31+00:00"
+    },
+    {
+      "name": "3.8 Ascend_Portfolio_5-Aug-26.pdf",
+      "path": "files/20260819-103530-3.8-ascend_portfolio_5-aug-26.pdf",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260819-103530-3.8-ascend_portfolio_5-aug-26.pdf",
+      "tag": "misc",
+      "description": "imp factsheet to prepare write up",
+      "size": 1064232,
+      "content_type": "application/pdf",
+      "uploaded": "2026-08-19T10:35:30+00:00"
+    },
+    {
+      "name": "3.6 APEX__Active_NS_Industry_Champ__25-Jun-2026.pdf",
+      "path": "files/20260819-103528-3.6-apex__active_ns_industry_champ__25-jun-2026.pdf",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260819-103528-3.6-apex__active_ns_industry_champ__25-jun-2026.pdf",
+      "tag": "misc",
+      "description": "imp factsheet to prepare write up",
+      "size": 1229101,
+      "content_type": "application/pdf",
+      "uploaded": "2026-08-19T10:35:28+00:00"
+    },
     {
       "name": "VS Bluechip Edge.png",
       "path": "files/20260818-113122-vs-bluechip-edge.png",
