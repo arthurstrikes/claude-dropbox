@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-08-20T10:27:36+00:00",
+  "updated": "2026-08-20T10:31:24+00:00",
   "files": [
+    {
+      "name": "product_scorecard_11Aug2026.csv",
+      "path": "files/20260820-103123-product_scorecard_11aug2026.csv",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260820-103123-product_scorecard_11aug2026.csv",
+      "tag": "misc",
+      "description": "product scorecard",
+      "size": 2701,
+      "content_type": "text/csv",
+      "uploaded": "2026-08-20T10:31:23+00:00"
+    },
     {
       "name": "consol performance nav and benchmark.xlsx",
       "path": "files/20260820-102735-consol-performance-nav-and-benchmark.xlsx",
