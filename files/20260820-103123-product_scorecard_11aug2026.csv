@@ -1,0 +1,28 @@
+Product,Clients,AUM_Cr,PL_Cr,PL_per_Cr_AUM,PctProfit,AvgReturn,MedReturn,PctOutperf,AvgAlpha,P10,P90,Dispersion,AvgHold,Thin
+RS Alpha Bluechip Model Portfolio,8152,482.81,3.76,0.78,59.8,1.17,3.42,60.1,0.59,-5.6,6.6,12.2,183,
+VS Bluechip Edge Model Portfolio,4695,296.42,9.01,3.04,93.0,3.25,2.16,54.9,0.66,0.2,7.9,7.7,44,
+APEX Model Portfolio,4401,287.5,-5.19,-1.8,42.3,-1.1,-3.64,8.5,-2.66,-8.2,8.4,16.7,182,
+MO Signature Model Portfolio,4900,283.05,17.9,6.32,98.3,7.32,4.72,97.8,5.05,1.9,17.5,15.7,232,
+ASPIRE Model Portfolio,3425,210.68,17.53,8.32,97.3,9.59,7.61,9.0,-2.32,2.6,18.1,15.5,167,
+PRIME Model Portfolio,5253,142.18,10.74,7.56,98.5,8.21,7.09,97.5,7.99,3.3,14.6,11.3,204,
+ALPHANEXT Model Portfolio,1388,91.43,1.76,1.92,69.2,1.31,0.9,46.6,-0.29,-2.0,4.7,6.7,205,
+ZODIAC Model Portfolio,1995,81.95,1.58,1.92,81.2,1.83,1.17,91.3,4.57,-1.0,5.9,6.9,194,
+MO Signia Model Portfolio,249,68.52,4.13,6.03,98.4,7.34,7.14,97.6,5.45,5.2,9.8,4.6,305,
+MO Technical Model Portfolio,1064,58.95,0.96,1.63,69.2,2.1,1.22,30.5,-0.73,-1.2,6.9,8.1,88,
+NSBS Flexicap Model Portfolio,212,28.89,3.37,11.66,100.0,11.18,13.64,97.2,7.66,3.4,16.7,13.3,75,
+NSBS Multicap Model Portfolio,191,26.68,2.28,8.53,100.0,8.77,9.48,99.5,5.22,4.4,11.5,7.2,81,
+ASCEND - Active NS 5TX5T Model Portfolio,232,26.57,2.17,8.15,94.0,9.03,9.76,19.0,-1.9,1.7,13.2,11.6,127,
+Emerging 2X Model Portfolio,151,21.46,0.83,3.85,100.0,3.58,3.45,97.4,2.52,1.3,5.4,4.1,11,
+20 Quant Momentum Model Portfolio,314,13.61,-0.6,-4.41,12.4,-3.82,-4.2,13.7,-5.84,-7.8,0.4,8.1,178,
+OUTPACER Model Portfolio,99,4.96,0.2,4.01,82.8,3.89,4.48,86.9,2.45,-0.3,6.8,7.1,19,
+AN Alpha Pulse Model Portfolio,104,4.82,-0.04,-0.75,36.5,-1.21,-1.44,1.9,-5.55,-5.4,3.8,9.3,170,
+GoalFi Momentum Blend 2X Model Portfolio,103,2.65,-0.01,-0.38,18.4,-0.32,-0.52,15.5,-0.45,-0.8,0.4,1.2,8,
+Compounding Legacy Model Portfolio,40,2.4,0.16,6.48,95.0,7.04,7.47,90.0,5.9,4.4,8.7,4.2,168,THIN N
+Combined Alpha Model Portfolio,10,2.11,0.1,4.88,90.0,4.48,3.4,30.0,-0.55,0.5,11.1,10.6,415,THIN N
+20 Quant Momentum 2X Model Portfolio,20,1.44,0.01,0.43,70.0,0.55,0.88,45.0,-0.72,-0.6,2.7,3.3,14,THIN N
+GoalFi Momentum Prime 2X Model Portfolio,9,0.98,-0.01,-1.14,44.4,0.5,0.0,44.4,-0.19,-1.7,3.7,5.4,9,THIN N
+MOJO ALL SEASON MODEL PORTFOLIO,14,0.62,-0.01,-0.87,50.0,-0.36,-0.45,42.9,-1.79,-2.0,1.2,3.2,18,THIN N
+Wright Turbo Quant 2X Model Portfolio,7,0.51,0.02,4.82,100.0,5.3,4.99,100.0,3.45,2.2,8.0,5.8,17,THIN N
+NSBS Quant Model Portfolio,3,0.38,0.0,0.71,100.0,0.73,0.74,0.0,-2.02,0.6,0.9,0.3,15,THIN N
+ARTHA FLEXI CAP MODEL PORTFOLIO,6,0.15,0.0,0.43,50.0,0.43,0.0,16.7,-1.92,-0.9,2.2,3.2,34,THIN N
+Flagship Model Portfolio,2,0.09,0.0,0.41,100.0,0.52,0.52,0.0,-1.97,0.3,0.8,0.5,28,THIN N
