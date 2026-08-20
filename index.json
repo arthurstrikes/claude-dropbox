@@ -1,7 +1,17 @@
 {
   "schema": 1,
-  "updated": "2026-08-20T06:45:50+00:00",
+  "updated": "2026-08-20T10:27:36+00:00",
   "files": [
+    {
+      "name": "consol performance nav and benchmark.xlsx",
+      "path": "files/20260820-102735-consol-performance-nav-and-benchmark.xlsx",
+      "url": "https://raw.githubusercontent.com/arthurstrikes/claude-dropbox/main/files/20260820-102735-consol-performance-nav-and-benchmark.xlsx",
+      "tag": "misc",
+      "description": "",
+      "size": 178595,
+      "content_type": "application/octet-stream",
+      "uploaded": "2026-08-20T10:27:35+00:00"
+    },
     {
       "name": "dataset - 18082026.xlsb",
       "path": "files/20260820-064548-dataset---18082026.xlsb",
