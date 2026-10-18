@@ -1,19 +1,19 @@
 {
  "note": "nse-data pipeline heartbeat; counts only",
- "updated_utc": "2026-10-18T12:53:09Z",
+ "updated_utc": "2026-10-18T13:29:59Z",
  "latest": {
-  "run_id": "39126456230",
+  "run_id": "39129161863",
   "attempt": "1",
   "event": "workflow_dispatch",
   "job": "success",
-  "start": "2022-07-01",
-  "end": "2022-12-31",
-  "utc": "2026-10-18T12:53:09Z",
-  "days": 184,
-  "last_date": "2022-12-31",
+  "start": "2023-01-01",
+  "end": "2023-06-30",
+  "utc": "2026-10-18T13:29:59Z",
+  "days": 181,
+  "last_date": "2023-06-30",
   "status_counts": {
-   "OK": 125,
-   "HOLIDAY": 59
+   "HOLIDAY": 59,
+   "OK": 122
   },
   "red_or_unresolved": 0
  },
@@ -31,6 +31,22 @@
    "status_counts": {
     "OK": 125,
     "HOLIDAY": 59
+   },
+   "red_or_unresolved": 0
+  },
+  {
+   "run_id": "39129161863",
+   "attempt": "1",
+   "event": "workflow_dispatch",
+   "job": "success",
+   "start": "2023-01-01",
+   "end": "2023-06-30",
+   "utc": "2026-10-18T13:29:59Z",
+   "days": 181,
+   "last_date": "2023-06-30",
+   "status_counts": {
+    "HOLIDAY": 59,
+    "OK": 122
    },
    "red_or_unresolved": 0
   }
