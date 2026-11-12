@@ -1,14 +1,14 @@
 {
  "note": "nse-data pipeline heartbeat; counts only",
- "updated_utc": "2026-11-12T21:51:48Z",
+ "updated_utc": "2026-11-12T22:27:41Z",
  "latest": {
-  "run_id": "43314330305",
+  "run_id": "43320026440",
   "attempt": "1",
   "event": "schedule",
   "job": "success",
   "start": "",
   "end": "",
-  "utc": "2026-11-12T21:51:48Z",
+  "utc": "2026-11-12T22:27:41Z",
   "days": 1,
   "last_date": "2026-11-12",
   "status_counts": {
@@ -17,22 +17,6 @@
   "red_or_unresolved": 0
  },
  "runs": [
-  {
-   "run_id": "39239172590",
-   "attempt": "1",
-   "event": "workflow_dispatch",
-   "job": "success",
-   "start": "2026-07-01",
-   "end": "2026-10-17",
-   "utc": "2026-10-19T10:48:34Z",
-   "days": 109,
-   "last_date": "2026-10-17",
-   "status_counts": {
-    "OK": 76,
-    "HOLIDAY": 33
-   },
-   "red_or_unresolved": 0
-  },
   {
    "run_id": "39291287536",
    "attempt": "1",
@@ -912,6 +896,21 @@
    "start": "",
    "end": "",
    "utc": "2026-11-12T21:51:48Z",
+   "days": 1,
+   "last_date": "2026-11-12",
+   "status_counts": {
+    "OK": 1
+   },
+   "red_or_unresolved": 0
+  },
+  {
+   "run_id": "43320026440",
+   "attempt": "1",
+   "event": "schedule",
+   "job": "success",
+   "start": "",
+   "end": "",
+   "utc": "2026-11-12T22:27:41Z",
    "days": 1,
    "last_date": "2026-11-12",
    "status_counts": {
