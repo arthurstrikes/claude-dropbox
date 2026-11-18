@@ -1,14 +1,14 @@
 {
  "note": "nse-data pipeline heartbeat; counts only",
- "updated_utc": "2026-11-17T23:39:53Z",
+ "updated_utc": "2026-11-18T10:59:23Z",
  "latest": {
-  "run_id": "44201260650",
+  "run_id": "44290434610",
   "attempt": "1",
   "event": "schedule",
   "job": "success",
   "start": "",
   "end": "",
-  "utc": "2026-11-17T23:39:53Z",
+  "utc": "2026-11-18T10:59:23Z",
   "days": 1,
   "last_date": "2026-11-17",
   "status_counts": {
@@ -17,21 +17,6 @@
   "red_or_unresolved": 0
  },
  "runs": [
-  {
-   "run_id": "39669743897",
-   "attempt": "1",
-   "event": "schedule",
-   "job": "success",
-   "start": "",
-   "end": "",
-   "utc": "2026-10-21T20:22:59Z",
-   "days": 1,
-   "last_date": "2026-10-21",
-   "status_counts": {
-    "OK": 1
-   },
-   "red_or_unresolved": 0
-  },
   {
    "run_id": "39746258604",
    "attempt": "1",
@@ -910,6 +895,21 @@
    "start": "",
    "end": "",
    "utc": "2026-11-17T23:39:53Z",
+   "days": 1,
+   "last_date": "2026-11-17",
+   "status_counts": {
+    "OK": 1
+   },
+   "red_or_unresolved": 0
+  },
+  {
+   "run_id": "44290434610",
+   "attempt": "1",
+   "event": "schedule",
+   "job": "success",
+   "start": "",
+   "end": "",
+   "utc": "2026-11-18T10:59:23Z",
    "days": 1,
    "last_date": "2026-11-17",
    "status_counts": {
